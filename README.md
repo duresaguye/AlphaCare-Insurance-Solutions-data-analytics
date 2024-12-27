@@ -7,7 +7,7 @@ This repository houses the code and analysis for an Exploratory Data Analysis (E
 Data Exploration Steps
 
     Data Summarization:
-        Descriptive statistics are calculated for numerical features (e.g., TotalPremium, TotalClaim) to assess variability.
+        Descriptive statistics are calculated for numerical features TotalPremium, TotalClaim to assess variability.
         Data types of each column are reviewed to ensure proper formatting for categorical variables, dates, etc.
     Data Quality Assessment:
         Missing values are identified and addressed.
