@@ -32,6 +32,6 @@ Running the Analysis
 
     Clone this repository: git clone https://github.com/duresaguye/AlphaCare-Insurance-Solutions-data-analytics.git
     Navigate to the project directory: cd AlphaCare-Insurance-Solutions-data-analytics
-    Install required dependencies (if any): pip install -r requirements.txt
+    Install required dependencies : pip install -r requirements.txt
  
 
